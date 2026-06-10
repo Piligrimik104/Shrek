@@ -1,0 +1,17 @@
+h1 {
+  color: green;
+  font-weight: bold;
+  font-style: italic;
+}
+h3 {
+  color:green;
+}
+ul {
+  color:green;
+}
+li {
+  color:green;
+}
+body {
+  background-color: rgb(51, 32, 4);
+}
